@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-07-22T07:14:20.169Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="xbJ_ZnMho9c5V86CX5AP" version="24.7.1" type="github">
+  <diagram name="Page-1" id="2cjp_J4_jKd2KutfVAei">
+    <mxGraphModel dx="1364" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-2" value="Perluasan Jaringan dan Proses bisnis di dalamnya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="405" y="140" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yFNjsZc0ylgCZ8NsNYiO-4" target="yFNjsZc0ylgCZ8NsNYiO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-4" value="&lt;div&gt;ISP&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-5" value="&lt;div&gt;Rumah A&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-6" value="Rumah C" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-7" value="&lt;div&gt;Rumah B&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yFNjsZc0ylgCZ8NsNYiO-5" target="yFNjsZc0ylgCZ8NsNYiO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFNjsZc0ylgCZ8NsNYiO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yFNjsZc0ylgCZ8NsNYiO-5" target="yFNjsZc0ylgCZ8NsNYiO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
